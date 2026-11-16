@@ -1,9 +1,5 @@
 # LogiTech — Simulação Logística
 
-[![CI](../../actions/workflows/ci.yml/badge.svg)](../../actions/workflows/ci.yml)
-![Java](https://img.shields.io/badge/Java-11%2B-orange)
-![Testes](https://img.shields.io/badge/testes-621%20verifica%C3%A7%C3%B5es-brightgreen)
-
 Núcleo de simulação de uma operadora logística fictícia, em **Java puro** (sem dependências externas).
 Calcula **frete, tempo de entrega e emissão de CO₂** para encomendas transportadas por três modais
 (rodoviário, aéreo e aquaviário) sob três perfis de precificação (econômico, rápido e ecológico),
